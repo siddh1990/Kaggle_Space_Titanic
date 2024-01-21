@@ -1,4 +1,4 @@
-# Kaggle_Titanic
+# Kaggle_Space_Titanic
 https://www.kaggle.com/competitions/spaceship-titanic/overview
 The data has been taken from Kaggle Competition "spaceship-titanic". Evaluation metrics is Accuracy. 5 models have been Evaluated and following are scores evaluated on testdataset:
 1. Xgboost:0.79424
